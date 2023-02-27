@@ -1,0 +1,5 @@
+/* General Blog CSS */
+
+.main-sb {
+    border: solid 1px #ccc;
+}
